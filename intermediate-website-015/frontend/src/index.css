@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 
-/* ─── Design Tokens ─────────────────────────────────────────────────────────── */
+/* ─── Design Tokens (Dark Telemetry Theme Default) ───────────────────────── */
 :root {
   /* Backgrounds */
   --bg-base:        #040b18;
